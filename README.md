@@ -12,3 +12,7 @@ What i know
 * [Express](http://expressjs.com)- fast node.js network app framework
 
 * [Svelte](https://svelte.dev/) - Svelte is a free and open-source JavaScript framework
+
+
+<a href="mailto:x@harshgoel.me"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:x@harshgoel.me" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/harshgoel05/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
