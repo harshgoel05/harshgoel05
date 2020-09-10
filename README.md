@@ -1,5 +1,5 @@
-### Hi there 👋
-###This is Harsh Goel, a 3rd year student from SRM University,Chennai,India.
+## Hi there 👋
+### This is Harsh Goel, a 3rd year student from SRM University,Chennai,India.
 🔭 I’m currently working to improve my skills in full stack development
 
 ### Skills
