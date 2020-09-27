@@ -1,7 +1,7 @@
 ![Harsh Goel](https://harshgoel.me/src/img/harsh-banner.png)
 
 ### Hi there 👋
-###### This is Harsh Goel, a 3rd-year student from SRM University, Chennai, India. I'm a full-stack developer (ME[A/R]N). I'm also experienced in making browser extensions. I have over 2+ years industrial experience and I've done several projects in past years which gave me a good hands on and a good amount of learnings
+###### This is Harsh Goel, a 3rd-year student from SRM University, Chennai, India. I'm a full-stack developer (MEAN). I'm also experienced in making browser extensions. I have over 2+ years industrial experience and I've done several projects in past years which gave me a good hands on and a good amount of learnings
 
 ##### Skills
 [Bootstrap](https://getbootstrap.com), [jQuery](http://jquery.com),  [Angular8](https://angular.io/), [ReactJS](https://reactjs.org/), [Node.JS](http://nodejs.org), [Express](http://expressjs.com), [MongoDB](https://www.mongodb.com/), [Svelte](https://svelte.dev/)
