@@ -2,7 +2,7 @@
 ### Hi there 👋
 ###### This is Harsh Goel, a 3rd-year student from SRM University, Chennai, India. I'm a full-stack developer (MEAN). I'm also experienced in making browser extensions. I have over 2+ years industrial experience and I've done several projects in past years which gave me a good hands on and a good amount of learnings
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshgoel05&count_private=true&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshgoel05&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
