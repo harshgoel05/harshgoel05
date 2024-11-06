@@ -1,6 +1,9 @@
 
 ## Hi there 👋
 
+### Ignore my github stats, I am doing a job ~ too lazy to remove edit this.
+### Had amazing stats as a student, now too lazy as a read-me writer :) 
+
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshgoel05&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
